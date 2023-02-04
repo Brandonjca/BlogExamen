@@ -1,0 +1,16 @@
+h1{
+    text-align: center; 
+}
+
+.mj{
+    position: relative;
+    display: flex;
+    margin-left: 550px;
+    padding: 10px;
+}
+
+.text{
+    max-width: 500px;
+    margin-left: 520px;
+    text-align: justify;
+}

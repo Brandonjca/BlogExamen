@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+}
+
+#car{
+    width: 900px;
+    height: 300px;
+    margin-left: 300px;
+    margin-top: 10px;
+    border-radius: 50px;
+
+}
+
+#card1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#cards{
+    display: flex;
+}
+
+#formulario{
+    padding: 10px;
+}
+#nombre{
+    border-radius: 50px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+}
+
+#fecha{
+    border-radius: 50px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+}
+
+label{
+    color:black;
+}
+
+#area{
+    width: 100%;
+    border-radius: 50px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    max-height: 150px;
+    margin-left: 10px;
+    min-height: 50px;
+    color: white;
+}

@@ -1,0 +1,23 @@
+h1{
+    text-align: center; 
+}
+
+.acdc{
+    position: relative;
+    display: flex;
+    margin-left: 475px;
+    padding: 10px;
+    width: 600px;
+
+}
+
+.text{
+    max-width: 500px;
+    margin-left: 520px;
+    text-align: justify;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
